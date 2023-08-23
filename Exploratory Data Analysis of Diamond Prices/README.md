@@ -1,0 +1,3 @@
+Exploratory Data Analysis of Diamond Prices
+
+This Jupyter Notebook performs an exploratory data analysis (EDA) of a diamonds dataset using Python. The dataset, provided in CSV format, contains information about various diamonds, including their carat weight, cut, color, clarity, depth, table percentage, price, and dimensions. The notebook covers data loading, cleaning, and visualization techniques to uncover insights about diamond prices based on their attributes. Through visualizations and statistical summaries, the notebook aims to reveal relationships between diamond features and their impact on pricing, helping to gain a deeper understanding of the diamond market.

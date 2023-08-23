@@ -1,0 +1,3 @@
+Exploratory Data Analysis of Theme Park
+
+This Python notebook conducts exploratory data analysis (EDA) on theme park visitor data. The dataset includes information about ticket sales, park details, and payment transactions. The notebook utilizes Python's data science libraries to visualize and analyze the data. It explores ticket sales patterns, park popularity, payment methods, and more, providing insights that can guide marketing and operational strategies for theme parks.

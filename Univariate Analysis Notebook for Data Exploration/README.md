@@ -1,0 +1,3 @@
+Univariate Analysis Notebook for Data Exploration
+
+This Python notebook focuses on univariate analysis techniques for data exploration. Univariate analysis involves examining individual variables independently to understand their distribution, central tendency, spread, and potential outliers. The notebook covers essential statistical measures, visualization methods like histograms, box plots, and density plots. It also demonstrates how to use Python libraries such as Matplotlib and Seaborn to visualize and analyze data distributions, aiding in gaining insights into the dataset's characteristics.

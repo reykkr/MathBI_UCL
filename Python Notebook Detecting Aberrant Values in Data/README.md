@@ -1,0 +1,3 @@
+Python Notebook Detecting Aberrant Values in Data
+
+This Python notebook focuses on detecting aberrant or anomalous values in a dataset using various techniques. It covers methods like statistical analysis, visualization, and machine learning-based anomaly detection. By implementing these approaches, the notebook aims to help data analysts and scientists identify and handle aberrant values effectively, leading to improved data quality and more reliable insights.

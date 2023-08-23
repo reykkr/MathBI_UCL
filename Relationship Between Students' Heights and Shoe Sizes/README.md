@@ -1,0 +1,3 @@
+Relationship Between Students' Heights and Shoe Sizes
+
+This Jupyter notebook explores the potential correlation between students' heights and their shoe sizes using Python. The notebook includes data collection, visualization, and statistical analysis to determine if there is a relationship between these two variables. By examining a dataset of students' heights and corresponding shoe sizes, the notebook aims to provide insights into whether there is a pattern that suggests a connection between these physical attributes.
